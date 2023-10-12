@@ -1,0 +1,54 @@
+
+#navbar {
+
+  background: rgb(38, 39, 40);
+  border-bottom: 1px solid #ee5329;
+  border-collapse: collapse;
+  width:90%;
+  height: 50px;
+  margin: auto;
+
+}
+
+#logo {
+  width: 50%;
+  text-align: left;
+}
+#logo:hover{
+  border-bottom: 1px solid #ee5329;
+  border-collapse: collapse;
+}
+
+#logo img {
+  width: 9%;
+  margin-left: 10px;
+  border-radius: 51px;
+}
+
+th {
+  text-align: center;
+  text-align: center;
+  border-bottom: 1px solid#ee5329;
+    border-collapse: collapse;
+}
+th:hover{
+  border-bottom: 4px solid #ee5329;
+  border-collapse: collapse;
+}
+
+
+th button {
+  background: rgb(38, 39, 40);
+   color:white;
+   font-weight: 500;
+    border:none;
+    padding-top: 23px;
+    padding-bottom: 23px;
+    padding-left: 23px;
+    padding-right: 23px;
+
+}
+th button:hover{
+  color:#ee5329;
+
+}
